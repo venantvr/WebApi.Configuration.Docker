@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="WebScheduler/WebScheduler.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebScheduler/ScheduledTasks.cs">
+    <Files>
+      <File FileName="WebScheduler/Program.cs" Line="1" Column="1" />
+      <File FileName="WebScheduler/ScheduledTasks.cs" Line="31" Column="78" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
