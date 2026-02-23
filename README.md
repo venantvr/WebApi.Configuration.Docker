@@ -16,7 +16,4 @@ Configuration d'une WebApi .NET dans Docker : scheduling de taches avec FluentSc
 
 ## Stack
 
-- C# / .NET
-- FluentScheduler
-- Docker
-- Multi-environnements (QA / Production)
+[![Stack](https://skillicons.dev/icons?i=dotnet,docker,cs&theme=dark)](https://skillicons.dev)
